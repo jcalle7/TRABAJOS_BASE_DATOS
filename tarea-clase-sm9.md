@@ -8,7 +8,7 @@ SELECT AVG(age) AS average_age
 FROM members;
 ```
 - captura
-<img src="image.png" alt="drawing" width="500"/>
+<img src="Capturas/Captura de pantalla 2024-06-12 001045.png" alt="drawing" width="500"/>
 
 ## 2. Obtener la edad mínima de los miembros:
 - sentencia
